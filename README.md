@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **learning how to best upgrade my skillset to find a full time job in the field**
 
-- 👨‍💻 All of my projects are available at [<need to make this>](<need to make this>)
+- 👨‍💻 All of my projects are available at <need to make this>
 
-- 📝 I regularly write articles on [<does reading deep space articles count?>](<does reading deep space articles count?>)
+- 📝 I regularly write articles on <does reading deep space articles count?>
 
 - 💬 Ask me about **reactnative, cozy games and my pet spider!**
 
 - 📫 How to reach me **cassandra10suzanne@gmail.com**
 
-- 📄 Know about my experiences [<link my resume>](<link my resume>)
+- 📄 Know about my experiences <link my resume>
 
 - ⚡ Fun fact **I will talk about space and relativity for hours if it gets brought up**
 
