@@ -1,29 +1,157 @@
-<h1 align="center">Hi 👋, I'm Cassandra Suzanne</h1>
-<h3 align="center">A passionate Full-Stack developer from Australia</h3>
+# Hi, I’m Cassandra Suzanne :>
 
-- 🔭 I’m currently working on **my newest cozy game using c#**
+### Aspiring Full-Stack Developer • Game Dev • Data-Driven Scientist
 
-- 🌱 I’m currently learning **coding, astrophysics, biochemistry (BSc)**
+I’m a third-year **BSc student majoring in Astrophysics & Biochemistry**, based in Australia, with a strong interest in building **apps, games, and data-driven systems**.
 
-- 👯 I’m looking to collaborate on **any projects seeking a dev!**
+My background in science taught me how to:
+- think analytically
+- extract & interpret data
+- write clear reports for teams
+- and learn complex systems quickly  
 
-- 🤝 I’m looking for help with **learning how to best upgrade my skillset to find a full time job in the field**
+I now apply those skills to **software development**, with a long-term goal of working as a **Full-Stack Developer** while continuing toward a future **PhD in Astrophysics**.
 
-- 👨‍💻 All of my projects are available at <need to make this>
+---
 
-- 📝 I regularly write articles on <does reading deep space articles count?>
+## 🌌 What I’m Working Toward
 
-- 💬 Ask me about **reactnative, cozy games and my pet spider!**
+- **Aspiring Full-Stack Developer** (Web + Mobile)
+- **Game Developer** (2D now, 3D next)
+- **Data Analyst** (currently working toward the *Microsoft Data Analyst Certification*)
+- Contributor to open-source & collaborative projects
+- Long-term: research-focused career in astrophysics
 
-- 📫 How to reach me ****
+---
 
-- 📄 Know about my experiences <link my resume>
+## 🧠 Academic Background (Why It Matters)
 
-- ⚡ Fun fact **I will talk about space and relativity for hours if it gets brought up**
+**BSc – Astrophysics & Biochemistry (3rd year)**  
+Key skills gained through science & research:
+- Python-based data analysis
+- Unix environments (bash / PowerShell / command line)
+- Scientific programming (Fortran, C)
+- Data extraction, cleaning, and visualization
+- Writing concise technical reports for teams
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+This background strongly influences how I approach software:
+**clean logic, reproducible results, and clear communication.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech Stack & Skill Progression
+
+> I track skills as **Comfortable**, **Actively Learning**, or **Planned** so this README can grow with me.
+
+### Languages
+- **Python** — Comfortable  
+- **C#** — Comfortable (Godot, general programming)
+- **JavaScript / TypeScript** — Comfortable
+- **C++** — Actively Learning (Unreal Engine)
+- **Fortran** — Academic experience
+
+### Frameworks & Tools
+- **React Native** — Comfortable
+- **Node.js** — Comfortable
+- **Godot Engine** — Comfortable
+- **Unreal Engine** — Actively Learning
+- **Docker** — Familiar
+- **Linux / Bash** — Comfortable
+
+### Data & ML
+- **Pandas / NumPy** — Comfortable
+- **SQL (MySQL, MSSQL)** — Comfortable
+- **TensorFlow / PyTorch** — Familiar
+- **Data visualization & reporting** — Comfortable
+
+### Creative Tools
+- **Blender** — Actively Learning
+- **Photoshop / Illustrator** — Actively Learning
+
+---
+
+## 🎮 Game Development Projects
+
+### 🕹️ 2D Platformer (Godot)
+**Status:** Completed  
+**Tech:** Godot, C#  
+- Platforming mechanics
+- Coin collection system
+- Enemy interactions
+- Physics-based movement
+
+### 🌱 Cozy 2D Game (Godot)
+**Status:** In Progress  
+**Tech:** Godot, C#  
+- Relaxed gameplay loop
+- Focus on atmosphere & polish
+- Designed as a longer-term passion project
+
+### 🚀 3D Game (Unreal Engine)
+**Status:** Planned  
+**Tech:** Unreal Engine, C++  
+- First large-scale 3D project
+- Focus on engine-level systems & performance
+
+---
+
+## 🌐 App & Web Projects
+
+### ☕ Themed Café App / Website
+**Status:** Completed  
+**Tech:** React Native  
+- Mobile-first design
+- Shared codebase for app & web
+- Themed UI and component structure
+
+### 🔒 API-Driven App (Secret for now)
+**Status:** In Progress  
+**Tech:** React Native, APIs, Backend Services  
+- Daily / weekly updated content
+- Real-time or scheduled data ingestion
+- Announcement coming soon
+
+---
+
+## 📊 Data & Analysis Focus
+
+Currently expanding into:
+- Professional data analysis workflows
+- Power BI / dashboards
+- SQL-heavy analytics
+- Business-ready reporting
+
+🎯 **Goal:** bridge software engineering with data-driven decision making.
+
+---
+
+## 🤝 Open To
+
+- Internships (dev, data, or hybrid)
+- Entry-level roles
+- Open-source contributions
+- Game dev collaborations
+- Helping on ongoing projects while growing my skillset
+
+---
+
+## ✨ Fun Facts
+
+- I can (and will) talk about **space and relativity for hours**
+- I love **cozy games** as much as technical challenges
+- My pet spider occasionally judges my code
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: *you are here*
+- LinkedIn / Portfolio: *(add when ready)*
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub stats cards -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
