@@ -127,6 +127,7 @@ Currently expanding into:
 
 ## 🤝 Open To
 
+- Connecting with other aspiring or current DevOps to discuss works and projects!
 - Internships (dev, data, or hybrid)
 - Entry-level roles
 - Open-source contributions
