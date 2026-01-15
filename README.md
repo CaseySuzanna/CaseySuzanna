@@ -146,11 +146,10 @@ Currently expanding into:
 
 ## 📬 Connect With Me
 
-- GitHub: *you are here*
-- LinkedIn / Portfolio: *(add when ready)*
+- GitHub: 
+- LinkedIn / Portfolio: 
 
 ---
 
-## 📈 GitHub Stats
 
 
