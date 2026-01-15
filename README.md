@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **reactnative, cozy games and my pet spider!**
 
-- 📫 How to reach me **cassandra10suzanne@gmail.com**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences <link my resume>
 
