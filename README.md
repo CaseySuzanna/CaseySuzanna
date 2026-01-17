@@ -1,125 +1,118 @@
-# Hi, I’m Cassandra Suzanne :>
+<!-- ===== HEADER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8E79FF&height=140&section=header&text=Cassandra%20Suzanne&fontColor=ffffff&fontSize=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Data&descAlignY=75" />
+</p>
 
-### Aspiring Full-Stack Developer • Game Dev • Data-Driven Scientist
-
-I’m a third-year **BSc student majoring in Astrophysics & Biochemistry**, based in Australia, with a strong interest in building **apps, games, and data-driven systems**.
-
-My background in science taught me how to:
-- think analytically
-- extract & interpret data
-- write clear reports for teams
-- and learn complex systems quickly  
-
-I now apply those skills to **software development**, with a long-term goal of working as a **Full-Stack Developer** while continuing toward a future **PhD in Astrophysics**.
+<p align="center">
+  <em>Code • Games • Data • Space</em>
+</p>
 
 ---
 
-## 🌌 What I’m Working Toward
+## 👋 About Me :>
 
-- **Aspiring Full-Stack Developer** (Web + Mobile)
-- **Game Developer** (2D now, 3D next)
-- **Data Analyst** (currently working toward the *Microsoft Data Analyst Certification*)
-- Contributor to open-source & collaborative projects
-- Long-term: research-focused career in astrophysics
+I’m **Cassandra**, a **23-year-old BSc student** majoring in **Astrophysics & Biochemistry**, based in Australia.
 
----
+I’m an **aspiring Full-Stack Developer** with strong interests in **game development** and **data analytics**, combining a scientific mindset with creative problem-solving.
 
-## 🧠 Academic Background (Why It Matters)
+My academic background trained me to:
+- break down complex systems
+- extract and analyse data
+- write clear technical reports
+- collaborate in research-focused teams  
 
-**BSc – Astrophysics & Biochemistry (3rd year)**  
-Key skills gained through science & research:
-- Python-based data analysis
-- Unix environments (bash / PowerShell / command line)
-- Scientific programming (Fortran, C)
-- Data extraction, cleaning, and visualization
-- Writing concise technical reports for teams
-
-This background strongly influences how I approach software:
-**clean logic, reproducible results, and clear communication.**
+I now apply those same skills to **software engineering**, while working toward a future **PhD in Astrophysics**.
 
 ---
 
-## 🛠 Tech Stack & Skill Progression
+## 🎯 Current Focus
 
-> I track skills as **Comfortable**, **Actively Learning**, or **Planned** so this README can grow with me.
-
-### Languages
-- **Python** — Comfortable  
-- **C#** — Comfortable (Godot, general programming)
-- **JavaScript / TypeScript** — Comfortable
-- **C++** — Actively Learning (Unreal Engine)
-- **Fortran** — Academic experience
-
-### Frameworks & Tools
-- **React Native** — Comfortable
-- **Node.js** — Comfortable
-- **Godot Engine** — Comfortable
-- **Unreal Engine** — Actively Learning
-- **Docker** — Familiar
-- **Linux / Bash** — Comfortable
-
-### Data & ML
-- **Pandas / NumPy** — Comfortable
-- **SQL (MySQL, MSSQL)** — Comfortable
-- **TensorFlow / PyTorch** — Familiar
-- **Data visualization & reporting** — Comfortable
-
-### Creative Tools
-- **Blender** — Actively Learning
-- **Photoshop / Illustrator** — Actively Learning
+- Full-Stack Development (Web & Mobile)
+- Game Development (2D → 3D)
+- Microsoft Data Analyst Certification
+- Open-source & collaborative projects
+- Building a professional, versatile skillset
 
 ---
 
-## 🎮 Game Development Projects
+## 🧠 Academic Background (Why It Helps)
 
-### 🕹️ 2D Platformer (Godot)
-**Status:** Completed  
-**Tech:** Godot, C#  
-- Platforming mechanics
-- Coin collection system
-- Enemy interactions
-- Physics-based movement
+**Bachelor of Science — Astrophysics & Biochemistry (3rd Year)**
 
-### 🌱 Cozy 2D Game (Godot)
-**Status:** In Progress  
-**Tech:** Godot, C#  
-- Relaxed gameplay loop
-- Focus on atmosphere & polish
-- Designed as a longer-term passion project
+- Python-based data analysis & visualization  
+- Unix environments (bash / PowerShell / CLI)  
+- Scientific programming (Fortran, C)  
+- Data extraction, modelling & reporting  
+- Communicating technical findings clearly to teams  
 
-### 🚀 3D Game (Unreal Engine)
-**Status:** Planned  
-**Tech:** Unreal Engine, C++  
-- First large-scale 3D project
-- Focus on engine-level systems & performance
+This background strongly shapes how I approach development:  
+**structured logic, reproducibility, and clarity.**
 
 ---
 
-## 🌐 App & Web Projects
+## 🛠 Skills & Technologies
 
-### ☕ Themed Café App / Website
-**Status:** Completed  
-**Tech:** React Native  
-- Mobile-first design
-- Shared codebase for app & web
-- Themed UI and component structure
+> Skill levels are tracked as **Comfortable**, **Actively Learning**, or **Planned** so this README grows with me.
 
-### 🔒 API-Driven App (Secret for now)
-**Status:** In Progress  
-**Tech:** React Native, APIs, Backend Services  
-- Daily / weekly updated content
-- Real-time or scheduled data ingestion
-- Announcement coming soon
+### 💻 Languages
+- Python — **Comfortable**
+- C# — **Comfortable**
+- JavaScript / TypeScript — **Comfortable**
+- C++ — **Actively Learning**
+- Fortran — **Academic Experience**
+
+### 🌐 Frameworks & Platforms
+- React Native — **Comfortable**
+- Node.js — **Comfortable**
+- Godot Engine — **Comfortable**
+- Unreal Engine — **Actively Learning**
+- Docker — **Familiar**
+- Linux / Bash — **Comfortable**
+
+### 📊 Data & Analysis
+- Pandas / NumPy — **Comfortable**
+- SQL (MySQL, MSSQL) — **Comfortable**
+- TensorFlow / PyTorch — **Familiar**
+- Data visualization & reporting — **Comfortable**
+
+### 🎨 Creative Tools
+- Blender — **Actively Learning**
+- Photoshop / Illustrator — **Actively Learning**
 
 ---
 
-## 📊 Data & Analysis Focus
+## 🔭 Featured Projects
 
-Currently expanding into:
-- Professional data analysis workflows
-- Power BI / dashboards
-- SQL-heavy analytics
-- Business-ready reporting
+> Screenshots are stored inside each project repo under `/assets/`
+
+| Preview | Project | Description | Tech | Links |
+|-------|--------|-------------|------|-------|
+| <img src="ASSETS_LINK" width="120"/> | **2D Platformer** | Platforming game with enemies, coins & physics-based movement | Godot, C# | [Repo](#) |
+| <img src="ASSETS_LINK" width="120"/> | **Themed Café App / Website** | Cross-platform mobile & web UI with shared codebase | React Native | [Repo](#) |
+| <img src="ASSETS_LINK" width="120"/> | **Cozy 2D Game** | Atmosphere-focused cozy game project | Godot, C# | [WIP](#) |
+| <img src="ASSETS_LINK" width="120"/> | **API-Driven App** | Data-updated app with daily/weekly content | React Native, APIs | [Coming Soon](#) |
+| <img src="ASSETS_LINK" width="120"/> | **3D Game Project** | First Unreal Engine 3D game | Unreal, C++ | [Planned](#) |
+
+---
+
+## 🎮 Game Development Focus
+
+- Strong interest in **cozy, atmospheric games**
+- Currently focused on **2D polish & gameplay loops**
+- Expanding into **3D systems & engine-level work**
+- Engines of choice:
+  - **Godot (C#)**
+  - **Unreal Engine (C++)**
+
+---
+
+## 📊 Data & Analytics
+
+Currently developing professional data skills:
+- Dashboard creation & reporting
+- SQL-driven analytics
+- Business-ready insights
+- Power BI & Microsoft analytics tooling
 
 🎯 **Goal:** bridge software engineering with data-driven decision making.
 
@@ -127,29 +120,31 @@ Currently expanding into:
 
 ## 🤝 Open To
 
-- Connecting with other aspiring or current DevOps to discuss works and projects!
 - Internships (dev, data, or hybrid)
-- Entry-level roles
+- Entry-level opportunities
 - Open-source contributions
 - Game dev collaborations
-- Helping on ongoing projects while growing my skillset
+- Contributing to ongoing projects while growing my skillset
 
 ---
 
 ## ✨ Fun Facts
 
-- I can (and will) talk about **space and relativity for hours**
-- I love **cozy games** as much as technical challenges
-- My pet spider occasionally judges my code
+- I will happily talk about **space and relativity for hours**
+- Cozy games are my comfort zone
+- My pet spider silently judges my code quality
 
 ---
 
-## 📬 Connect With Me
+## 📈 GitHub Stats
 
-- GitHub: 
-- LinkedIn / Portfolio: 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-
-
+<p align="center">
+  <em>Always learning • Always building • Always curious</em>
+</p>
