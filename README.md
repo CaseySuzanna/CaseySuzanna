@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 What I’m chasing</h3>
+      <h3> What I’m chasing</h3>
       <ul>
         <li>🎓 <b>The Degree:</b> Wrapping up my final year in Astrophysics & Biochemistry.</li>
         <li>🎮 <b>Leveling Up:</b> Shifting from 2D Godot projects to 3D systems in Unreal Engine.</li>
@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 The Scientist's Edge</h3>
+      <h3> The Scientist's Edge</h3>
       <p>I don’t just write scripts; I build <b>systems</b>. My academic training has taught me to break down massive, multi-layered problems and translate complex data into clean, functional logic. If it isn't reproducible and modular, it isn't finished.</p>
     </td>
   </tr>
@@ -34,7 +34,7 @@
 
 <hr />
 
-<h3>🛠 Tech Toolbox</h3>
+<h3> Tech Toolbox</h3>
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 
 <hr />
 
-<h3>📂 Current Projects</h3>
+<h3> Current Projects</h3>
 
 <table>
   <tr>
@@ -84,7 +84,7 @@
 
 <hr />
 
-<h3>✨ Beyond the Terminal</h3>
+<h3> Beyond the Terminal</h3>
 <ul>
   <li>I will happily talk about <b>general relativity</b> or space-time for longer than you probably want.</li>
   <li>I’m a fan of "slow" gaming and world-building that prioritizes immersion.</li>
