@@ -1,153 +1,109 @@
-<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8E79FF&height=140&section=header&text=Cassandra%20Suzanne&fontColor=ffffff&fontSize=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Data&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8E79FF&height=140&section=header&text=Cassandra%20Suzanne&fontColor=ffffff&fontSize=38&desc=Full-Stack%20Dev%20|%20Astrophysics%20&%20Biochem&descAlignY=75" width="100%" />
 </p>
 
 <p align="center">
-  <em>Code • Games • Data • Space</em>
+  <kbd>Code</kbd> • <kbd>Games</kbd> • <kbd>Data</kbd> • <kbd>Space</kbd>
 </p>
 
----
+<div align="center">
+  <p>
+    I’m a developer based in Australia with a background rooted in the hard sciences. I spend my time at the intersection of structured logic and creative world-building—whether that's analyzing cosmic data, building cross-platform apps, or crafting cozy game environments.
+  </p>
+</div>
 
-## 👋 About Me :>
+<hr />
 
-I’m **Cassandra**, a **23-year-old BSc student** majoring in **Astrophysics & Biochemistry**, based in Australia.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I’m up to</h3>
+      <ul>
+        <li>🎓 <b>Academic:</b> Wrapping up 3rd year Astrophysics & Biochemistry.</li>
+        <li>🎮 <b>Game Dev:</b> Moving from 2D polish (Godot) to 3D systems (Unreal).</li>
+        <li>📊 <b>Data:</b> Working toward Microsoft Data Analyst Certification.</li>
+        <li>🌌 <b>The Goal:</b> Bridging the gap between data and UX.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 The Science-to-Code Pipeline</h3>
+      <p>My research background means I build <b>reproducible systems</b>, not just scripts. I specialize in breaking down multi-layered problems and translating complex technical data into clear, actionable logic.</p>
+    </td>
+  </tr>
+</table>
 
-I’m an **aspiring Full-Stack Developer** with strong interests in **game development** and **data analytics**, combining a scientific mindset with creative problem-solving.
+<hr />
 
-My academic background trained me to:
-- break down complex systems
-- extract and analyse data
-- write clear technical reports
-- collaborate in research-focused teams  
+<h3>🛠 Tech Toolbox</h3>
 
-I now apply those same skills to **software engineering**, while working toward a future **PhD in Astrophysics**.
+<table>
+  <tr>
+    <td width="25%"><b>Languages</b></td>
+    <td>Python, C#, JavaScript, TypeScript, C++, Bash</td>
+  </tr>
+  <tr>
+    <td><b>Web & Mobile</b></td>
+    <td>React Native, Node.js, Docker, SQL (MySQL/MSSQL)</td>
+  </tr>
+  <tr>
+    <td><b>Game Dev</b></td>
+    <td>Godot Engine, Unreal Engine, Blender, C# / C++</td>
+  </tr>
+  <tr>
+    <td><b>Data Science</b></td>
+    <td>Pandas, NumPy, TensorFlow, Data Visualization</td>
+  </tr>
+</table>
 
----
+<hr />
 
-## 🎯 Current Focus
+<h3>📂 Featured Projects</h3>
 
-- Full-Stack Development (Web & Mobile)
-- Game Development (2D → 3D)
-- Microsoft Data Analyst Certification
-- Open-source & collaborative projects
-- Building a professional, versatile skillset
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Highlights</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><b>Cozy 2D Game</b></td>
+    <td>Atmospheric gameplay loops and custom "feel" logic.</td>
+    <td><code>Godot</code> <code>C#</code></td>
+  </tr>
+  <tr>
+    <td><b>Themed Café App</b></td>
+    <td>Full-scale UI/UX with a shared mobile/web codebase.</td>
+    <td><code>React Native</code></td>
+  </tr>
+  <tr>
+    <td><b>API-Driven App</b></td>
+    <td>Dynamic data fetching and real-time content updates.</td>
+    <td><code>Node.js</code> <code>APIs</code></td>
+  </tr>
+</table>
 
----
+<hr />
 
-## 🧠 Academic Background (Why It Helps)
-
-**Bachelor of Science — Astrophysics & Biochemistry (3rd Year)**
-
-- Python-based data analysis & visualization  
-- Unix environments (bash / PowerShell / CLI)  
-- Scientific programming (Fortran, C)  
-- Data extraction, modelling & reporting  
-- Communicating technical findings clearly to teams  
-
-This background strongly shapes how I approach development:  
-**structured logic, reproducibility, and clarity.**
-
----
-
-## 🛠 Skills & Technologies
-
-> Skill levels are tracked as **Comfortable**, **Actively Learning**, or **Planned** so this README grows with me.
-
-### 💻 Languages
-- Python — **Comfortable**
-- C# — **Comfortable**
-- JavaScript / TypeScript — **Comfortable**
-- C++ — **Actively Learning**
-- Fortran — **Academic Experience**
-
-### 🌐 Frameworks & Platforms
-- React Native — **Comfortable**
-- Node.js — **Comfortable**
-- Godot Engine — **Comfortable**
-- Unreal Engine — **Actively Learning**
-- Docker — **Familiar**
-- Linux / Bash — **Comfortable**
-
-### 📊 Data & Analysis
-- Pandas / NumPy — **Comfortable**
-- SQL (MySQL, MSSQL) — **Comfortable**
-- TensorFlow / PyTorch — **Familiar**
-- Data visualization & reporting — **Comfortable**
-
-### 🎨 Creative Tools
-- Blender — **Actively Learning**
-- Photoshop / Illustrator — **Actively Learning**
-
----
-
-## 🔭 Featured Projects
-
-> Screenshots are stored inside each project repo under `/assets/`
-
-| Preview | Project | Description | Tech | Links |
-|-------|--------|-------------|------|-------|
-| <img src="ASSETS_LINK" width="120"/> | **2D Platformer** | Platforming game with enemies, coins & physics-based movement | Godot, C# | [Repo](#) |
-| <img src="ASSETS_LINK" width="120"/> | **Themed Café App / Website** | Cross-platform mobile & web UI with shared codebase | React Native | [Repo](#) |
-| <img src="ASSETS_LINK" width="120"/> | **Cozy 2D Game** | Atmosphere-focused cozy game project | Godot, C# | [WIP](#) |
-| <img src="ASSETS_LINK" width="120"/> | **API-Driven App** | Data-updated app with daily/weekly content | React Native, APIs | [Coming Soon](#) |
-| <img src="ASSETS_LINK" width="120"/> | **3D Game Project** | First Unreal Engine 3D game | Unreal, C++ | [Planned](#) |
-
----
-
-## 🎮 Game Development Focus
-
-- Strong interest in **cozy, atmospheric games**
-- Currently focused on **2D polish & gameplay loops**
-- Expanding into **3D systems & engine-level work**
-- Engines of choice:
-  - **Godot (C#)**
-  - **Unreal Engine (C++)**
-
----
-
-## 📊 Data & Analytics
-
-Currently developing professional data skills:
-- Dashboard creation & reporting
-- SQL-driven analytics
-- Business-ready insights
-- Power BI & Microsoft analytics tooling
-
-🎯 **Goal:** bridge software engineering with data-driven decision making.
-
----
-
-## 🤝 Open To
-
-- Internships (dev, data, or hybrid)
-- Entry-level opportunities
-- Open-source contributions
-- Game dev collaborations
-- Contributing to ongoing projects while growing my skillset
-
----
-
-## ✨ Fun Facts
-
-- I will happily talk about **space and relativity for hours**
-- Cozy games are my comfort zone
-- My pet spider silently judges my code quality
-
----
-
-## 📈 GitHub Stats
+<h3>✨ Beyond the Code</h3>
+<ul>
+  <li>I will happily talk about <b>relativity and space-time</b> for hours.</li>
+  <li>My pet spider is my lead code reviewer (she’s very critical).</li>
+  <li>Fan of "slow" gaming and vertical development.</li>
+</ul>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaseySuzanna&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseySuzanna&layout=compact&theme=tokyonight" />
+  <a href="https://linkedin.com/in/yourprofile"><b>Linkedin</b></a> • 
+  <a href="https://yourwebsite.com"><b>Portfolio</b></a> • 
+  <a href="mailto:hello@youremail.com"><b>Email</b></a>
 </p>
 
-
----
+<hr />
 
 <p align="center">
-  <em>Always learning • Always building • Always curious</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=CaseySuzanna&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaseySuzanna&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <i>Always learning • Always building • Always curious</i>
 </p>
