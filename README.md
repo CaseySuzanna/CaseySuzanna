@@ -19,10 +19,10 @@
     <td width="50%" valign="top">
       <h3> What I’m chasing</h3>
       <ul>
-        <li>🎓 <b>The Degree:</b> Wrapping up my final year in Astrophysics & Biochemistry.</li>
-        <li>🎮 <b>Leveling Up:</b> Shifting from 2D Godot projects to 3D systems in Unreal Engine.</li>
-        <li>📊 <b>Data:</b> Mastering the Microsoft Data stack to turn raw numbers into stories.</li>
-        <li>🌌 <b>The Vision:</b> Using my science background to build high-performance, data-driven tools.</li>
+        <li><b>The Degree:</b> Wrapping up my final year in Astrophysics & Biochemistry.</li>
+        <li><b>Leveling Up:</b> Shifting from 2D Godot projects to 3D systems in Unreal Engine.</li>
+        <li><b>Data:</b> Mastering the Microsoft Data stack to turn raw numbers into stories.</li>
+        <li><b>The Vision:</b> Using my science background to build high-performance, data-driven tools.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
